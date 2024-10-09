@@ -1,0 +1,9 @@
+Region,Product,Sales,Quantity,Date
+East,Product A,5000,50,2023-10-01
+East,Product B,3000,30,2023-10-02
+West,Product A,4000,40,2023-10-01
+West,Product C,3500,35,2023-10-03
+North,Product B,2000,20,2023-10-02
+North,Product C,2500,25,2023-10-03
+South,Product A,6000,60,2023-10-01
+South,Product B,4500,45,2023-10-02
